@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Video's watched</title>
+</head>
+
+<body style="background-color:#F0EEEB">
+
+    <form>
+        <div id="fields" >
+            <input id="title" type="text" placeholder="Title" required>
+            <select id="uploader" required>
+            <option disabled selected value>  --- select an uploader ---  </option>
+            <option value="Sara">Sara</option>
+            <option value="Rivka">Rivka</option>
+            <option value="Siran">Siran</option>
+            <option value="Leha">Leha</option>
+            <option value="Danit">Danit</option>
+          </select>
+            <input id="0" type="number" placeholder="Seconds" required><br>
+        </div>
+        <input id="subm" type="submit" value="Watch" onclick="engin2(); return false;">
+        <input id="plus" type="submit" value="Plus" onclick="addVideo(); return false;">
+        <input di="rese" type="reset"><br>
+    </form>
+
+    <div id="msg"></div>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
