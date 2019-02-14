@@ -2,7 +2,7 @@
 <h3>Linkes</h3>
 <ol>
 <li> <a href="http://cek.io/blog/2015/12/03/event-loop/">JavaScript's Call Stack, Callback Queue, and Event Loop</a></li>
-<li>practice writing html, css and javascript: https://codepen.io/anon/pen/gqxVrj</li>
+<li> <a href=https://codepen.io/anon/pen/gqxVrj> practice writing html, css and javascript</a> </li>
 <li>placeholder: https://www.w3schools.com/tags/att_input_placeholder.asp</li>
 <li>onsubmit: https://www.w3schools.com/tags/ev_onsubmit.asp</li>
 <li>addEventListener: https://www.w3schools.com/js/js_htmldom_eventlistener.asp</li>
