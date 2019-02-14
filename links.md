@@ -14,5 +14,5 @@
  <h3>CSS</h3>
 
 <ol>
-<li>ways to add CSS to HTML https://matthewjamestaylor.com/add-css-to-html</li>
+ <li><a href=https://matthewjamestaylor.com/add-css-to-html>ways to add CSS to HTML</a></li>
 </ol>
