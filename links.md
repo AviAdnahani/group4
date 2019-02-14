@@ -7,8 +7,8 @@
 <li>onsubmit: https://www.w3schools.com/tags/ev_onsubmit.asp</li>
 <li>addEventListener: https://www.w3schools.com/js/js_htmldom_eventlistener.asp</li>
 <li>onclick: https://www.w3schools.com/jsref/event_onclick.asp</li>
-<li>onmousedown:</li>
-<li>onmouseup:</li>
+<li>onmousedown: https://www.w3schools.com/jsref/event_onmousedown.asp</li>
+<li>onmouseup: https://www.w3schools.com/jsref/event_onmouseup.asp</li>
 </ol>
 
  <h3>CSS</h3>
