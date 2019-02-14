@@ -1,7 +1,7 @@
  <h1>Learnd</h1> 
 <h3>Linkes</h3>
 <ol>
-<li>JavaScript's Call Stack, Callback Queue, and Event Loop: http://cek.io/blog/2015/12/03/event-loop/ </li>
+<li> <a href="http://cek.io/blog/2015/12/03/event-loop/">JavaScript's Call Stack, Callback Queue, and Event Loop</a></li>
 <li>practice writing html, css and javascript: https://codepen.io/anon/pen/gqxVrj</li>
 <li>placeholder: https://www.w3schools.com/tags/att_input_placeholder.asp</li>
 <li>onsubmit: https://www.w3schools.com/tags/ev_onsubmit.asp</li>
